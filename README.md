@@ -48,7 +48,7 @@ A mitigation plan is a strategy established to lower the level of risk and poten
 The end result of this process is providing a detailed report of findings, suggested improvements needed to lower the organization's level of risk, and compliance regulations and standards the organization needs to adhere to. 
 <br />
 <br />
-<h4>[The following is my completed audit.] (https://docs.google.com/document/d/18eaDhYQgDIcV_iukyWVnCt1CbnrKGeHK/edit?usp=sharing&ouid=104717793378294377005&rtpof=true&sd=true)</h4>
+**[The following is my completed audit.](https://docs.google.com/document/d/18eaDhYQgDIcV_iukyWVnCt1CbnrKGeHK/edit?usp=sharing&ouid=104717793378294377005&rtpof=true&sd=true)**
 
 </p>
 
